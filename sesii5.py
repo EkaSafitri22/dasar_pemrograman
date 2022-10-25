@@ -1,4 +1,4 @@
-# siti nurviatika
+# eka safitri
 # membuat variabel nama barang
 # membuat variabel harga barang
 # membuat variabel persen barang
